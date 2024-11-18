@@ -13,7 +13,7 @@ namespace MyConsoleAppD
             Console.WriteLine("Hello World");
             Console.WriteLine("Hello World");
             Console.WriteLine("feautre 1 - dev 2");
-            Console.WriteLine("feature 1");
+
         }
     }
 }
