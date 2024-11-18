@@ -12,6 +12,7 @@ namespace MyConsoleAppD
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Hello World");
+            Console.WriteLine("Feature 3");
         }
     }
 }
